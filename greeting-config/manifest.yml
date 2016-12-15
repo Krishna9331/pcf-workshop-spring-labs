@@ -9,3 +9,4 @@ applications:
     - krishna-config-server
   env:
     SPRING_PROFILES_ACTIVE: qa
+TRUST_CERTS: api.system.titan.lab.emc.com
